@@ -6,5 +6,5 @@ metadata:
     github.com/project-slug: omoyal/terroir-technologies
 spec:
   type: other
-  lifecycle: unknown
+  lifecycle: development
   owner: omoyal
