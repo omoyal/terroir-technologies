@@ -7,4 +7,4 @@ metadata:
 spec:
   type: other
   lifecycle: development
-  owner: omoyal
+  owner: group:default/guests
